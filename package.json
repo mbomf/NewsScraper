@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xnthiny/news-scraper.git"
+    "url": "https://github.com/mbomf/NewsScraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Xnthiny/news-scraper/issues"
+    "url": "https://github.com/mbomf/NewsScraper/issues"
   },
-  "homepage": "https://github.com/Xnthiny/news-scraper#readme",
+  "homepage": "https://github.com/mbomf/NewsScraper#readme",
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
